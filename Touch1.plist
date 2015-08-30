@@ -12,7 +12,7 @@
                     <string>software-package</string>
                     <key>url</key>
 <!-- 这里改成你的ipa下载路径,和plist放在同一目录 -->
-                    <string>https: //192.168.1.1/ipa/app.ipa</string>
+                    <string>https://github.com/wicresoftappdev/touch1/raw/master/Touch1.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
